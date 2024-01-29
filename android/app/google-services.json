@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373211068576",
+    "project_id": "we-chat-36fc7",
+    "storage_bucket": "we-chat-36fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373211068576:android:ad96a2562ca2192a61f1c5",
+        "android_client_info": {
+          "package_name": "com.rahul.wechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWgILf5tC9TEfbRDxvJwLnDL-kOqJeTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
